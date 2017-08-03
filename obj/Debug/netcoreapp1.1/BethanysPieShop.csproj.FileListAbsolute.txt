@@ -1,0 +1,9 @@
+C:\Users\khene\CSharpNet2017\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp1.1\BethanysPieShop.deps.json
+C:\Users\khene\CSharpNet2017\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp1.1\BethanysPieShop.runtimeconfig.json
+C:\Users\khene\CSharpNet2017\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp1.1\BethanysPieShop.runtimeconfig.dev.json
+C:\Users\khene\CSharpNet2017\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp1.1\BethanysPieShop.dll
+C:\Users\khene\CSharpNet2017\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp1.1\BethanysPieShop.pdb
+C:\Users\khene\CSharpNet2017\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.csprojResolveAssemblyReference.cache
+C:\Users\khene\CSharpNet2017\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.AssemblyInfo.cs
+C:\Users\khene\CSharpNet2017\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.dll
+C:\Users\khene\CSharpNet2017\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.pdb

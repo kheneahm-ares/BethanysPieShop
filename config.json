@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "AppDbContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=BethanysPieShop;Trusted_Connection=true;MultipleActiveResultSets=true"
+  }
+}
